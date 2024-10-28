@@ -7,9 +7,15 @@ This Python program prompts the user to enter the number of rows (`num_rows`) an
 For example, if you enter `num_rows = 4`, the output will be:
 
       💎
+      
     💎💎💎
+    
   💎💎💎💎💎
+  
 💎💎💎💎💎💎💎
+
  💎💎💎💎💎💎
+ 
     💎💎💎
+    
        💎
