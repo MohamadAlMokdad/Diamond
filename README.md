@@ -4,18 +4,4 @@ This Python program prompts the user to enter the number of rows (`num_rows`) an
 
 ## 📋 Example Output
 
-For example, if you enter `num_rows = 4`, the output will be:
-
-      💎
-      
-    💎💎💎
-    
-  💎💎💎💎💎
-  
-💎💎💎💎💎💎💎
-
- 💎💎💎💎💎💎
- 
-    💎💎💎
-    
-       💎
+Now, you should begin exploring the output independently.
